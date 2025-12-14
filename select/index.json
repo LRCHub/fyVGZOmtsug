@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "紡ぎ",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2025-12-14T06:06:32.735794Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紡ぎ",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_紡ぎ_メガテラ・ゼロ.txt"
+    }
+  ]
+}
